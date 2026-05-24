@@ -1,0 +1,57 @@
+```
+# Dependencies
+.venv/
+venv/
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.MF
+tags
+TAGS
+.idlemod.pkl
+idlemod.pkl
+.DS_Store
+Thumbs.db
+
+# Development containers
+.devcontainer/.env
+.devcontainer/*.env
+
+# Logs
+*.log
+
+# Environment specific
+.env
+.env.local
+*.env
+*.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
